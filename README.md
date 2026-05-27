@@ -1,32 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Aslamu alaikum 👋, I'm Nabiya Rizwan</h1>
-<h3 align="center">A passionate frontend developer from pakistan</h3>
+## 👋 Aslamu Alaikum, I'm Nabiya Rizwan
 
-- 🌱 I’m currently learning **Html,Css,javascript(Es6+)..etc**
+### ✦ Passionate Frontend Developer from Pakistan ✦
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP AND JAVASCRIPT**
+</div>
 
-- 📫 How to reach me **nabiyarizwan127@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nabiya rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiya rizwan" height="30" width="40" /></a>
-</p>
+### 🌱 Currently Learning
+![Status](https://img.shields.io/badge/Learning-HTML%20%7C%20CSS%20%7C%20JavaScript%20ES6%2B-a78bfa?style=flat-square&labelColor=302b63)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<!--
-**Nabiya-Rizwan/Nabiya-Rizwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+| | |
+|---|---|
+| 💬 **Ask me about** | HTML, CSS, Bootstrap, JavaScript |
+| 📫 **Reach me at** | nabiyarizwan127@gmail.com |
+| 🇵🇰 **Location** | Pakistan |
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nabiya%20Rizwan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabiya-rizwan)
+[![Email](https://img.shields.io/badge/Email-nabiyarizwan127@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nabiyarizwan127@gmail.com)
